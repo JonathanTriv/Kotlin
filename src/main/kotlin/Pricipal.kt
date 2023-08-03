@@ -1,5 +1,7 @@
 fun main(){
    println("Kotlin")
 
-   println("Segunda salida")
+   println("Segunda salida de manera grafica")
+
+
 }
