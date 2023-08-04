@@ -1,4 +1,5 @@
 fun main(){
+  
    println("Kotlin")
 
    println("Segunda salida")
@@ -6,5 +7,8 @@ fun main(){
    println("Aprendiendo kotlin")
 
    println("Prueba push")
+
+   println("Segunda salida de manera grafica")
+   
 
 }
