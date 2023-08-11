@@ -92,6 +92,7 @@ fun main() {
         println(j)
     }
     */
+/*
     var z = 1
     while (z <= 100){
         println(z)
@@ -102,7 +103,36 @@ fun main() {
     do {
         println(f)
         f--
-    }while (f >= 1)
+    }while (f >= 1)*/
+
+/*    var estudiantes = arrayOf("Lorena", "Pedro", "Luis")
+
+    println(estudiantes[1])
+    println(estudiantes.size)
+
+    var numeros = intArrayOf(12,45,67,19)
+
+    for (i in 0 until numeros.size){
+        println(numeros[i])
+    }*/
+
+    var milista = arrayListOf("Pepe",20,30)
+
+    var suma = milista[1] as Int + milista[2] as Int
+    var nombre = milista[0] as String  + milista[1]
+
+
+
+   milista.forEachIndexed(){i, est ->
+        println("$i - $est")
+
+    }
+
+
+
+
+
+
 
 
 }
