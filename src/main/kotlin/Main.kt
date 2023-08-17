@@ -123,9 +123,9 @@ fun main() {
 
 
 
-   milista.forEachIndexed(){i, est ->
-        println("$i - $est")
 
+       milista.forEachIndexed(){i, est ->
+           println("$i - $est")
     }
 
 
