@@ -1,4 +1,3 @@
-import javafx.beans.binding.When
 import java.text.DecimalFormat
 import java.util.Scanner
 import kotlin.math.ceil
